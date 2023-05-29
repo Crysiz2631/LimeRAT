@@ -1,4 +1,4 @@
-# Outdated. Archive it instead of delete it
+# Outdated
 
 ---
 
